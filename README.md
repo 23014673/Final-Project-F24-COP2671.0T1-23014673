@@ -10,4 +10,4 @@
 
 // Game Description
 
-	// After the introduction and countdown, the player must jump over the hurdles to collect apples. Once you collect 5 apples the game will end with a banner. If the timer runs out or you hit an obstacle, the game will also end but with a different banner.
+	// After the introduction and countdown, the player must jump over the hurdles to collect apples in 30 seconds. The timer will continue even if paused. Once you collect 5 apples the game will end.
